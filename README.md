@@ -1,5 +1,5 @@
 # Anime_Classifier
-This is a respository for Group 9 where we develop an anime rating classifier based on synopsis
+This is a respository for Group 9 where we developed an anime rating classifier based on text within the synopsis
 
 animes_df2.csv is the dataset used
 
@@ -13,3 +13,7 @@ Gensim embeddings model, logistic regression (using both features gained from Co
 etl_and_lr: loaded and cleaned data, created target variable, performed logistic regression with tfidf
 
 Polarity + RF notebook covers our Vader Compound and Polarity models and also Random Forest Model with Lemmatization and TFIDF
+
+
+If you'd like to read a little more about our project, please read our blog post:
+https://medium.com/@chaffeyjohn/sally-nguyen-andrewlu-xiao-brian-kosiadi-john-chaffey-han-mai-86e6754f456b
